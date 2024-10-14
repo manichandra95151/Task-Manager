@@ -1,5 +1,7 @@
 # Task Manager
 
+![Task Manager](./public//task.png)
+
 Welcome to the **Task Manager** project! This is a React-based application that helps you manage your daily tasks effectively. You can add, edit, delete, and prioritize tasks, ensuring you stay on top of your goals.
 
 ## Table of Contents
