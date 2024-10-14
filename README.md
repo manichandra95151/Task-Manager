@@ -46,10 +46,13 @@ Follow these steps to get the project running on your local machine:
    ```bash
    git clone https://github.com/manichandra95151/task-manager.git
 2. Navigate to the project directory:
+   ```bash
    cd task-manager
 3. Install dependencies:
+   ```bash
    npm install
 4. Start the development server:
+   ```bash
    npm start
 
 ## Usage
