@@ -2,7 +2,7 @@
 
 ![Task Manager](./public//task.png)
 
-Welcome to the **Task Manager** project! This is a React-based application that helps you manage your daily tasks effectively. You can add, edit, delete, and prioritize tasks, ensuring you stay on top of your goals.
+A simple and efficient task management application built with React and Redux. This application allows users to add, edit, delete, and mark tasks as completed. It also allows users to set task deadlines and priorities to stay organized and productive.
 
 ## Table of Contents
 - [Overview](#overview)
